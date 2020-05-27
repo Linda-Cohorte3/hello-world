@@ -1,3 +1,2 @@
 # hello-world
-bonjour comment va
-bien j'espere que toi aussi
+Perséverer en toute chose c'est le secret de la vie.
