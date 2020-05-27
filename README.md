@@ -1,2 +1,2 @@
 # hello-world
-Perséverer en toute chose c'est le secret de la vie.
+Persévérer en toute chose c'est le secret de la vie.
